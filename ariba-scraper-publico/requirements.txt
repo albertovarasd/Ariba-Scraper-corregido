@@ -1,0 +1,7 @@
+playwright>=1.49.0
+python-dotenv>=1.0.1
+gspread>=6.1.2
+google-api-python-client>=2.141.0
+google-auth>=2.33.0
+rarfile>=4.2
+

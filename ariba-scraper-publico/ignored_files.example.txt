@@ -1,0 +1,7 @@
+# Patrones de adjuntos que NO quieres descargar (uno por línea).
+# Copia este archivo como "ignored_files.txt" y agrega los de tu comprador.
+# La comparación es por subcadena y no distingue mayúsculas.
+# "ignored_files.txt" está en .gitignore: no se sube al repositorio.
+
+FORM_EJEMPLO_
+Bases administrativas tipo
