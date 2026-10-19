@@ -82,6 +82,10 @@ python app.py
 ├── .gitignore
 └── README.md
 ```
+## Parte de un sistema
+Este scraper llena la planilla que luego procesa
+[tender-ai-classifier-apps-script](https://github.com/albertovarasd/tender-ai-classifier-apps-script),
+que clasifica y resume cada licitación con IA.
 
 ## Autor
 
